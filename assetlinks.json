@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.example.cashback",
+      "sha256_cert_fingerprints": [
+        "FE:6D:96:EA:14:10:B2:2E:1C:1D:15:FA:D2:A9:2E:BC:19:B6:98:77:73:A2:FA:E1:86:A8:87:B1:88:BD:7A:5A"
+      ]
+    }
+  }
+]
